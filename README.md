@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+SecreM here, I like C and Java.
+I love my Ming.
